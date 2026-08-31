@@ -20,7 +20,7 @@ Real government open data (Wisconsin property insurance fund) built entirely on 
 The most technically diverse project: **real-time streaming with Apache Kafka** (Confluent Cloud) alongside batch claims ingestion, **PostgreSQL Lakehouse Federation** for live cross-platform data (via Neon — now a Databricks-owned product), and a multi-source DABs-deployed Job with parallel task execution.
 
 ## 🛠️ Tech Stack Across These Projects
-`Databricks` `SQL` `PySpark` `Python` `Delta Lake` `Medallion architecture` `Unity Catalog` `Lakeflow Declarative Pipelines` `Databricks Asset Bundles (DABs)` `Apache Kafka` `Lakehouse Federation` `Genie` `Lakeview Dashboards` `Git`
+`Databricks` `SQL` `PySpark` `Python` `Delta Lake` `Medallion Architecture` `Unity Catalog` `Lakeflow Declarative Pipelines` `Databricks Asset Bundles (DABs)` `Apache Kafka` `Lakehouse Federation` `Genie` `Lakeview Dashboards` `Git`
 
 ## 📫 Let's Connect
 - [Email](#)  latashat1@outlook.com
