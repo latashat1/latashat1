@@ -21,6 +21,3 @@ The most technically diverse project: **real-time streaming with Apache Kafka** 
 
 ## 🛠️ Tech Stack Across These Projects
 `Databricks` `SQL` `PySpark` `Python` `Delta Lake` `Medallion Architecture` `Unity Catalog` `Lakeflow Declarative Pipelines` `Databricks Asset Bundles (DABs)` `Apache Kafka` `Lakehouse Federation` `Genie` `Lakeview Dashboards` `Git`
-
-## 📫 Let's Connect
-- [Email](#)  latashat1@outlook.com
