@@ -3,8 +3,10 @@
 **Data Engineer** with hands-on experience building and maintaining production data pipelines using AWS S3, Snowflake, and Control-M for orchestration. This portfolio showcases my growing expertise in **Databricks** specifically, built through self-directed projects that mirror real production patterns: medallion architecture, orchestration, CI/CD deployment, and real-time streaming.
 
 ## 🎓 Certifications
-- **Databricks Certified Data Engineer Associate**
-- **SnowPro Core Certified**
+[![Databricks Certified Data Engineer Associate](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/189842860)](https://credentials.databricks.com/4e7ff984-2e10-4582-a5e9-cf0d41107d4c#acc.AqH7vLE3)
+[![SnowPro Core Certified](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145522605)](https://achieve.snowflake.com/2315033a-56ba-47ba-b883-85239aa1e1ce#acc.dbcGS4wK)
+
+  
 
 ## 📂 Featured Portfolio: [databricks-portfolio](https://github.com/latashat1/databricks-portfolio)
 
