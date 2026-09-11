@@ -9,7 +9,7 @@
 
 ## 📂 Featured Portfolio: [databricks-portfolio](https://github.com/latashat1/databricks-portfolio)
 
-Three end-to-end data engineering projects, each demonstrating a different orchestration approach and a different real-world domain:
+Four end-to-end data engineering projects, each demonstrating a different orchestration approach and a different real-world domain:
 
 ### 🏥 [Healthcare Claims & Utilization](https://github.com/latashat1/databricks-portfolio/tree/main/01_healthcare_claims_util)
 Medallion architecture (bronze/silver/gold) on Medicare-style claims data, a provider fraud-risk ML feature table, Databricks Workflows orchestration, a Lakeflow Declarative Pipeline, and a Genie-powered natural language query space.
